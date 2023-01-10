@@ -14,6 +14,7 @@
 - [Omar Gabriel](https://github.com/omargabrielaguilar)
 - [Richard McCormick](https://github.com/rmccormick314)
 -[Saumya Shah](https://github.com/Saumya40-codes)
+- [Corrie](https://github.com/CowichanContent)
 - [C0LDRAM3N] (https://github.com/C0LDRAM3N)
 - [Shubham] (https://github.com/Shubham-Godambe)
 - [Nur Farah](https://github.com/Nur-farah)
